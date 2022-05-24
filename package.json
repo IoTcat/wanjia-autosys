@@ -1,0 +1,23 @@
+{
+  "name": "wanjia-autosys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "wiot": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IoTcat/wanjia-autosys.git"
+  },
+  "author": "iotcat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IoTcat/wanjia-autosys/issues"
+  },
+  "homepage": "https://github.com/IoTcat/wanjia-autosys#readme"
+}
